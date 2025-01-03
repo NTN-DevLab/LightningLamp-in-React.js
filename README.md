@@ -13,4 +13,4 @@ Runs the app in the local server.
 
    3. npm install
 
-   4. npm run
+   4. npm start
